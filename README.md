@@ -34,16 +34,18 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1.6K,10K,0.1 µF | 1 |
+| 6 | Resistors | 1.6K,10K,5.86k| 1 |
 | 7 | Connecting wires and probes | As required | — |
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+<img width="1600" height="1049" alt="image" src="https://github.com/user-attachments/assets/997d5766-0625-4fa0-a4c0-10f6a8dc9b1f" />
+
 
 
 ## MODEL GRAPH
-<img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
+<img width="1600" height="1122" alt="image" src="https://github.com/user-attachments/assets/991d46a8-54b1-4532-b384-d62defaa8523" />
+
 
 ---
 
@@ -96,12 +98,9 @@ PROCEDURE - (LPF):
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 ---
-![low pass 10](https://github.com/user-attachments/assets/1c088534-08f4-4c44-9226-53d4f9912390)
+![IMG-20251204-WA0016 1](https://github.com/user-attachments/assets/059fc5ff-6c51-4169-a669-8c54ab202b84)
 
-
-<img width="950" height="662" alt="ss lps cir" src="https://github.com/user-attachments/assets/f04342f0-0f6a-4b43-9254-c3b93fab5174" />
-
-<img width="1915" height="459" alt="ss lpf op" src="https://github.com/user-attachments/assets/cc78c38f-8585-416a-a37f-660a023fe126" />
+<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/98c4e628-5cb4-4c8f-9e83-b24f7e539a96" />
 
  
  
@@ -123,18 +122,17 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors | 1.6K,10K,5.86K, 0.1 µF | 1 |
+| 6 | Resistors | 1.6K,10K,5.86K| 1 |
 | 7 | Connecting wires and probes | As required | — |
 
 
 ## CIRCUIT DIAGRAM
 
-<img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
-
+<img width="1600" height="1054" alt="image" src="https://github.com/user-attachments/assets/139dc340-58cd-45e9-a265-32afd28ceeb9" />
 
 ## MODEL GRAPH
 
-<img width="1005" height="382" alt="image" src="https://github.com/user-attachments/assets/22925efc-4abc-4fad-90d5-94f3348c3c0b" />
+<img width="1599" height="1107" alt="image" src="https://github.com/user-attachments/assets/a7145ad8-f080-4cbb-9dce-6d7eda878876" />
 
 ---
 
@@ -186,12 +184,10 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![high pass](https://github.com/user-attachments/assets/e03eeb87-2dd2-48da-b670-6a1377555393)
+![IMG-20251204-WA0017 1](https://github.com/user-attachments/assets/4ace247e-acab-471c-bc8d-3d7cb3208b43)
 
 
-<img width="1129" height="513" alt="ss hpf cir 2 " src="https://github.com/user-attachments/assets/d7424f44-85cc-411f-8ebc-d0a29db972a4" />
-
-<img width="1914" height="475" alt="ss hpf op 2 " src="https://github.com/user-attachments/assets/8869a2cb-5e7d-4220-8190-35961d490ad3" />
+<img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/ab838796-46fd-4cba-a69d-5b4e39cd1599" />
 
 
 
@@ -216,17 +212,19 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 | 3 | Dual RPS | (0 – 30) V | 1 |
 | 4 | Op-Amp | µA741 | 2 |
 | 5 | Bread Board | — | 1 |
-| 6 | Resistors |10K,38.8K,7.9K,0.01uf | 1 |
+| 6 | Resistors |10K,38.8K,7.9K| 1 |
 | 7 | Connecting ires and probes | As required | — |
 
 
 ## CIRCUIT DIAGRAM
 
-<img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
+<img width="1599" height="952" alt="image" src="https://github.com/user-attachments/assets/e82759d7-1429-467d-9c0a-759cbf595f9b" />
+
 
 ## MODEL GRAPH
 
-<img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
+<img width="1599" height="1038" alt="image" src="https://github.com/user-attachments/assets/da59c7a5-4b98-4c42-afd2-de5a95f4ab28" />
+
 
 
 ---
@@ -281,12 +279,11 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![band pass ](https://github.com/user-attachments/assets/292c7d2b-b9e7-4c22-9c13-8f62eb537030)
+![IMG-20251204-WA0018 1](https://github.com/user-attachments/assets/667ea7b1-5a89-433f-a1f5-e5fc1a9d667a)
 
 
-<img width="948" height="515" alt="ss bps cir " src="https://github.com/user-attachments/assets/e7eec0a2-9d3e-43dd-905f-223ced0c5874" />
 
-<img width="1893" height="448" alt="ss bpf op" src="https://github.com/user-attachments/assets/b9501192-ae95-45eb-830e-81955fd2aba4" />
+<img width="1600" height="844" alt="image" src="https://github.com/user-attachments/assets/a88fec11-763d-48f7-b0fe-32a0f95ad0f7" />
 
 
 
